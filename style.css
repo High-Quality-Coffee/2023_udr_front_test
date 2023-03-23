@@ -1,0 +1,52 @@
+/*p{
+    color: violet;
+}
+
+h3{
+    color:aquamarine;
+}
+
+h4{
+    color:brown;
+}
+
+h5{
+    color:cornflowerblue;
+}
+
+.likelion{
+    color:yellow;
+}
+.likelion1{
+    color:orange;
+}*/
+
+/* '*'는 위에잇는거 지워야 적용가능*/
+/* *{ 
+
+     color:brown;
+ }*/
+
+ /*.korea{
+    color:crimson;
+ }
+
+p.korea{
+    color:blue;
+
+}
+
+p.korea.sejong{
+    color:yellow;
+}*/
+
+#korea{
+    color:yellow;
+}
+#sejong{
+    color: green;
+}
+.korea{
+    color:crimson;
+}
+
